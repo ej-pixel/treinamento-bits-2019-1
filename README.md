@@ -16,7 +16,8 @@
 **3.1.** Assista este tutorial: <https://www.youtube.com/watch?v=0fKg7e37bQE>  
 **3.2.** Dê uma olhada nessa figurinha maneira: <https://dribbble.com/shots/2389144-Git-GitHub-Tutorial>  
 **3.3.** Clone o repositório seguindo o que você viu no tutorial 3.1., se tiver dúvidas, pode perguntar no Slack  
-**3.4.** Adicione um arquivo dentro da pasta Github com o seu nome e a extensão html, assim como a existente **3.5.** Dê um git add <nomedoarquivo>  
-**3.6.** Dê um git commit -m "<mensagem>"  
+**3.4.** Adicione um arquivo dentro da pasta Github com o seu nome e a extensão html, assim como a existente  
+**3.5.** Dê um git add "nomedoarquivo"   
+**3.6.** Dê um git commit -m "mensagem"  
 (a mensagem tem que ser algo direto e simples do que foi feito, de modo a todos que estão no projeto entendam rapidamente qual foi a alteração)  
 **3.7.** Dê um git push  
