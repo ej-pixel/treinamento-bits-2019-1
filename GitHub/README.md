@@ -24,6 +24,6 @@
 
 ### 4º Passo - Links úteis
 
-**4.1. Importância do alt na tag img** <https://moz.com/learn/seo/alt-text>
-**4.2. Importância do DOCTYPE** <https://htmlmoderno.com.br/posts/voce-sempre-ve-o-doctype-ali-na-primeira-linha-mas-voce-sabe-o-por-que.html>
-**4.3. Sobre mudanças na UI** Pode parecer uma coisa pequena, porém para o cliente o mais importante é o resultado final, então basicamente não importa a qualidade do código, se a UI não estiver exatamente igual ele vai achar que a nossa empresa é desleixada. Deixar a UI muito próxima do que o cliente pediu é mostrar que trabalhamos com qualidade.
+**4.1. Importância do alt na tag img** <https://moz.com/learn/seo/alt-text>  
+**4.2. Importância do DOCTYPE** <https://htmlmoderno.com.br/posts/voce-sempre-ve-o-doctype-ali-na-primeira-linha-mas-voce-sabe-o-por-que.html>  
+**4.3. Sobre mudanças na UI** Pode parecer uma coisa pequena, porém para o cliente o mais importante é o resultado final, então basicamente não importa a qualidade do código, se a UI não estiver exatamente igual ele vai achar que a nossa empresa é desleixada. Deixar a UI muito próxima do que o cliente pediu é mostrar que trabalhamos com qualidade.  

@@ -26,11 +26,11 @@
 
 **4.1.** Na branch master, antes de fazer qualquer alteração dê um git pull  
 **4.2.** Faça uma branch para a sua atividade com o nome no formato meu-nome/home-page  
-**4.3.** Crie uma pasta para a sua atividade com o nome no formato meuNome/homePage, se quiser criar pelo terminal assista: <https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux/>  
+**4.3.** Crie uma pasta para a sua atividade (dentro da pasta CSS) com o nome no formato meuNome/homePage, se quiser criar pelo terminal assista: <https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux/>  
 Dentro dessa pasta você irá colocar:  
     **4.3.1.** O arquivo HTML com o nome index.html  
     **4.3.2.** O arquivo CSS com o nome styles.css  
-    **4.3.3.** Uma pasta com o nome assets com todas as imagens necessárias
+    **4.3.3.** Uma pasta com o nome assets com todas as imagens necessárias  
 **4.4.** Depois de terminada a atividade, faça um Pull Request e no Request a Review coloque ligiasell  
 
 ### 5º Passo - Atividade  
