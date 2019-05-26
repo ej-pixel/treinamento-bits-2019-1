@@ -4,10 +4,12 @@
 
 **1.1. Udemy** Assista a Section 2: <https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/learn/v4/content>  
 (como esse curso é pago, o e-mail e a senha da conta da Pixel serão disponibilizados no Slack)  
-**1.2. HTML Basic** Leia: <https://www.w3schools.com/html/html_basic.asp>  
-**1.3. HTML Lists** Leia: <https://www.w3schools.com/html/html_lists.asp>  
-**1.4. HTML Tables** Leia: <https://www.w3schools.com/html/html_tables.asp>  
-**1.5. Document and website structure** Leia: <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure>  
+**1.2. HTML Introduction** Leia: <https://www.w3schools.com/html/html_intro.asp>  
+**1.3. HTML Basic** Leia: <https://www.w3schools.com/html/html_basic.asp>  
+**1.4. HTML text fundamentals** Leia: <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals>  
+**1.5. HTML Tables** Leia: <https://www.w3schools.com/html/html_tables.asp>  
+**1.6. Document and website structure** Leia: <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure>  
+**1.7. Creating hyperlinks** Leia: <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks>  
 
 ### 2º Passo - Um pouco mais de Git  
 
