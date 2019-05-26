@@ -26,10 +26,15 @@
 
 **4.1.** Na branch master, antes de fazer qualquer alteração dê um git pull  
 **4.2.** Faça uma branch para a sua atividade com o nome no formato meu-nome/home-page  
-**4.3.** Depois de terminada a atividade, faça um Pull Request e no Request a Review coloque ligiasell  
+**4.3.** Crie uma pasta para a sua atividade com o nome no formato meuNome/homePage, se quiser criar pelo terminal assista: <https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux/>  
+Dentro dessa pasta você irá colocar:  
+    **4.3.1.** O arquivo HTML com o nome index.html  
+    **4.3.2.** O arquivo CSS com o nome styles.css  
+    **4.3.3.** Uma pasta com o nome assets com todas as imagens necessárias
+**4.4.** Depois de terminada a atividade, faça um Pull Request e no Request a Review coloque ligiasell  
 
 ### 5º Passo - Atividade  
 
-**5.1.** Reproduza o UI da Home Page <http://www.nadarte.com/conceito/> utilizando apenas HTML5 e CSS3, não importe bibliotecas. Preocupe-se em deixar a aparência o mais próxima possível da existente, não é necessário que os links e botões funcionem, porém use as tags adequadas. Pense na estrutura e utilize as tags de HTML5, além de flexbox e grid para posicionar os elementos. Evite ao máximo utilizar position relative  
+**5.1.** Reproduza o UI da Home Page <http://www.nadarte.com/conceito/> utilizando apenas HTML5 e CSS3, não importe bibliotecas. Preocupe-se em deixar a aparência o mais próximo possível da existente, não é necessário que os links e botões funcionem, porém use as tags adequadas. Pense na estrutura e utilize as tags de HTML5, além de flexbox e grid para posicionar os elementos. Evite ao máximo utilizar position relative  
 **5.2. Imagens** Baixe a logo do próprio site, as imagens que não são possíveis baixar você pode susbtituir por uma da sua escolha. Há várias sugestões gratuitas aqui: <https://www.flaticon.com/>  
 **5.3. Cores e fontes** Descubra as cores e fontes utilizando o inspect, assista o tutorial aqui: <https://goomore.com/blog/inspecionar-elemento/>  
