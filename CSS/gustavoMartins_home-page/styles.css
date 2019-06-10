@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 103%;
+  line-height: 1.6;
+}
+
+nav {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 13px 265px;
+}
+
+.logo {
+  display: inline-block;
+}
+
+.logo > img {
+  vertical-align: middle;
+  width: 60%;
+  height: 60%;
+}
+
+.container {
+  list-style: none;
+  flex: 1;
+  padding: 10px;
+  display: flex;
+  font-weight: bold;
+}
+
+.container > li {
+  flex: 1;
+}
+
+.menuColor {
+  color: #e74c3c;
+}
+
+ul > li > a {
+  padding: 10px 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.bigboxes {
+  display: grid;
+  grid-template: auto / repeat(2, 1fr);
+}
+
+.boxTwo > h1 {
+  color: white;
+}
+
+.boxOne {
+  padding: 70px;
+}
+
+.boxTwo {
+  background-color: rgb(250, 128, 0);
+  padding: 60px;
+}
+
+.space {
+  height: 75px;
+}
+
+.smallBoxes {
+  display: grid;
+  grid-template: auto / repeat(3, 1fr);
+  text-align: center;
+}
+
+.circle, .lens, .anchor {
+  height: 50px;
+}
+
+.smallBoxOne, .smallBoxTwo, .smallBoxOThree {
+  padding: 20px;
+}
+
+.smallBoxTwo {
+  background-color: rgb(250, 128, 0);
+}
+
+.smallBoxTwo > p {
+  color: white;
+}
+
+.smallBoxOThree > ul {
+  list-style: none;
+  text-align: center;
+}
+
+.siga {
+  display: grid;
+  grid-template: auto / repeat(2, 1fr);
+  text-align: center;
+  padding: 90px 0;
+}
+
+.siga > .siga-nos > button {
+  background-color: rgb(250, 128, 0);
+  color: white;
+  border: none;
+  text-decoration: none;
+  padding: 14px 42px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 85%;
+}
+
+.last {
+  background-color: black;
+  color: white;
+  display: grid;
+  grid-template: auto / repeat(5, 1fr);
+  padding: 45px;
+  font-family: 'Oswald', sans-serif;
+  line-height: 100%;
+  font-weight: 300;
+}
+
+.last > div > ul {
+  list-style: none;
+}
+
+.paginas {
+  font-size: 140%;
+}
+
+.searchsub {
+  color: #e74c3c;
+}
+
+.search {
+  background-color: #222222;
+}
+
+.foot_note {
+  background-color: black;
+  color: #555555;
+  padding: 20px;
+}
+
+.foot_note > p {
+  margin-left: 400px;
+  font-size: 90%;
+}
