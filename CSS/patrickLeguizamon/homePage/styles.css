@@ -104,24 +104,24 @@ footer {
     list-style: none;
     padding: 0;
 }
-#minhanadarte {
-    background-color: #f5f5f5;
-    margin: 115px 40px 120px 40px;
+.minhanadarte {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #f5f5f5;  
     font-size: 36px;
     font-family: Dosis;
+    height: 300px;
 }
 #siga-nos {
-    display: flex;
-    justify-content: end;
-}
-#siga-nos>button {
-    margin: 115px 40px 120px 40px;
     font-size: 16px;
     font-weight: 700;
-    font-family: Awesome;
+    font-family: PT Sans;
     background-color: #e67e22;
+    color: #ffffff;
     padding: 13px 40px 13px;
     border: 0;
+    border-radius: 5px;
 }
 #footer-main {
     display: grid;
