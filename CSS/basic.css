@@ -1,0 +1,73 @@
+.container > div {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: #ffeead;
+}
+
+html, body {
+    box-sizing: border-box;
+    background-color: #ffeead;
+    height: 100%;
+    padding: 10px;
+    margin: 0px;
+}
+
+.navegacao {
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Helvetica Neues, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.header {
+    justify-content: space-between;
+}
+
+.menu {
+    display: grid;
+    padding: 50px;
+    align-items: top;
+    font-family: helvetica neues, arial, sans-serif;
+    font-size: 10px;
+}
+
+.content {
+    display: grid;
+    padding: 50px;
+    align-items: top;
+    font-family: helvetica neues, arial, sans-serif;
+    font-size: 10px;
+}
+
+.container > .missao {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+}
+
+.container > .comunicacao {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+}
+
+
+.container > div:nth-child(1n) {
+    background-color: #ffffff;
+    }
+
+.container > div:nth-child(2n) {
+    background-color: orange;
+}
+
+.container > div:nth-child(3n) {
+    background-color: orange;
+}
+
+.container > div:nth-child(4n) {
+    background-color: white;
+}
