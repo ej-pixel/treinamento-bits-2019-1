@@ -1,0 +1,93 @@
+
+header {
+	width: 100%;
+	height: 150px;
+	background-color: rgb(4, 0, 8);
+}
+header .container {
+	position: relative;
+}
+#row {
+	margin-right: -10px;
+	margin-left: 0px;
+}
+#menu {
+    color: white;
+    font-size: 23px
+}
+#menu li {
+	display: inline-block;
+    font-family: "OpenSans";
+    
+}
+#menu li a {
+	color: #FFF;
+	font-size: 16px;
+	font-weight: bolder;
+	padding: 25%;
+}
+#menu li.search {
+	width: 182px;
+}
+#menu li.search input {
+
+	color: #fff;
+	border: none;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 8px;
+}
+header #logotipo {
+	position: absolute;
+	top: 20px;
+	z-index: 3;
+}
+.contents {
+	display: flex;  
+	flex-flow: row wrap;
+	font-weight: bold;
+	text-align: center;
+}
+.contents > * {
+	padding: 10px;
+	flex: 1 100%;
+}
+.main {
+	text-align: center;
+	background: #fa8000;
+	color: white;
+}
+.main h2 {
+	color: black;
+	font-size: bold;
+}
+topright {
+	background: #fa8000;	
+}
+topright h2 {
+	color: white;
+}
+@media all and (min-width: 600px) {
+	.aside { flex: 1 0 0; }
+}
+@media all and (min-width: 800px) {
+	.main    { flex: 3 0px; }
+	.aside-1 { order: 1; } 
+	.main    { order: 2; }
+	.aside-2 { order: 3; }
+	.footer  { order: 4; }
+}
+footer {
+	background-color: rgb(4, 0, 8);
+	height: 75%;
+	width: 100%;
+	color: white;
+	display: left;
+}
+footer .lastContents ul {
+	align-content: right;
+}
+footer .lastContents a {
+	color: white;
+	text-align: left;
+}
